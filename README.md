@@ -14,13 +14,15 @@
 const Sam = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, Ruby,]
-  tools: [React, Redux, Node, SharpSpring, Styled-Components, Jest,],
+  tools: [SharePoint, Microsoft Teams, Microsoft 365, React, Node, SharpSpring, Styled-Components, Jest,],
   passions: ["product", "strategy", "innovation", "yegbusiness"],
   Board Member: {
-                        Vice Chair: "Winspear Centre",
-                        Board Memeber: "CN Community Foundation",
+                        Vice Chair: "Winspear Centre for Music and Edmonton Symphony",
+                        Board Member: "CN Community Foundation",
+                        Board Member: "Impirica Inc.",
+                        Board Member: "Orion Nutraceuticals Inc. TSX.V:ORI"
                       },
- punchcard: "Helping create software products & Tech platforms that transform the world around us."
+ punchcard: "Helping create software products & tech platforms that transform the world around us."
 }
 ```
 
