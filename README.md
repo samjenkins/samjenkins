@@ -1,7 +1,7 @@
 
 <img align='left' src="https://punchcard.io/wp-content/uploads/2020/06/punchcard_logo_2020.png" width="200">
 <h2> Hi, I'm Sam Jenkins! </h2>
-<p><em>Managing Partner at <a href="http://www.punchcard.io">Punchcard.IO</a> 
+<p><em>Managing Partner at <a href="http://www.punchcard.io">Punchcard Systems Inc.</a> 
 </em></p>
 
 &nbsp; &nbsp; [![Twitter: SamJenkins](https://img.shields.io/twitter/follow/SamJenkins?style=social)](https://twitter.com/SamJenkins)
